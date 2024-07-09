@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed83568&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed83568" /> </p>
 
-- 🔭 I’m currently working on **Insta Clone**
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently learning **Frontend**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmed83568](https://github.com/ahmed83568)
 
