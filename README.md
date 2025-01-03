@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed83568&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed83568" /> </p>
 
 
-- 🌱 I’m currently learning **Frontend**
+- 🌱 I’m currently Working On **Frontend**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmed83568](https://github.com/ahmed83568)
 
